@@ -2,7 +2,9 @@
 
 # Zadání projektu
 Na vašem analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, jste se dohodli, že se pokusíte odpovědět na pár definovaných výzkumných otázek, které adresují dostupnost základních potravin široké veřejnosti. Kolegové již vydefinovali základní otázky, na které se pokusí odpovědět a poskytnout tuto informaci tiskovému oddělení. Toto oddělení bude výsledky prezentovat na následující konferenci zaměřené na tuto oblast.
+
 Potřebují k tomu od vás připravit robustní datové podklady, ve kterých bude možné vidět porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období.
+
 Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR.
 
 # Výzkumné otázky
@@ -14,7 +16,9 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 
 # Postup
 Jako první jsem vytvořila spojenou tabulku z 5 ti tabulek s primárními daty (2x faktická tabulka, 3x číselník), vybrala jsem ty, které jsem potřebovala ke zodpovězení otázek. Mým cílem bylo vytvořit jednu tabulku s agregovanými daty za určité časové období. Data jsem agregovala prvně dle určených kategorií – 1) průmyslové odvětví v případě mezd (19 odvětví) a 2) kategorie potravin v případě cen potravin (27 kategorií) a poté dle společného časového období – let 2006–2018. Výsledná tabulka obsahuje průměrnou cenu/mzdu pro každou kategorii a rok. 
+
 Dále jsem vytvořila doprovodnou tabulku s daty o evropských zemích ze dvou primárních tabulek, které obsahují informace o zemích světa a jejich ekonomikách. 
+
 Poté jsem vytvořila SQL dotazy nad tabulkami, tak abych odpověděla na výzkumné otázky. SQL soubory jsou pojmenovány „výzkumná otázka“ doplněné o číslo otázky na kterou odpovídám.
 
 # Odpovědi na výzkumné otázky
