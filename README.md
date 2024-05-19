@@ -43,7 +43,8 @@ Rok 2012 byl co se týče růstu mezd významný. Od tohoto roku většina odvě
 # 2.	Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 V roce 2006 bylo možné zakoupit z průměrné mzdy 20 754 Kč:
 -	1 437 litrů mléka
--	1 287 kilogramů chleba 
+-	1 287 kilogramů chleba
+  
 V roce 2018 bylo možné zakoupit z průměrné mzdy 32 536 Kč:
 -	1 642 litrů mléka
 -	1 342 kilogramů chleba
