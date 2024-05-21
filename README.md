@@ -15,6 +15,8 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 5.	Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo   následujícím roce výraznějším růstem?
 
 # Postup
+V projektu používám data o mzdách v různých odvětvích a o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
+
 Jako první jsem vytvořila spojenou tabulku z 5 ti tabulek s primárními daty (2x faktická tabulka, 3x číselník), vybrala jsem ty, které jsem potřebovala ke zodpovězení otázek. Mým cílem bylo vytvořit jednu tabulku s agregovanými daty za určité časové období. Data jsem agregovala prvně dle určených kategorií – 1) průmyslové odvětví v případě mezd (19 odvětví) a 2) kategorie potravin v případě cen potravin (27 kategorií) a poté dle společného časového období – let 2006–2018. Výsledná tabulka obsahuje průměrnou cenu/mzdu pro každou kategorii a rok. 
 
 Dále jsem vytvořila doprovodnou tabulku s daty o evropských zemích ze dvou primárních tabulek, které obsahují informace o zemích světa a jejich ekonomikách. 
