@@ -2,7 +2,7 @@ CREATE OR REPLACE TABLE t_marketa_rolincova_project_SQL_primary_final AS
 	SELECT cp.industry_branch_code AS category_code  
 	     , cpib.name AS category_name 
 	     , cp.payroll_year AS year 
-		 , round(avg(cp.value)) AS average_payroll_price
+	     , round(avg(cp.value)) AS average_payroll_price
 	FROM czechia_payroll cp 
 	LEFT JOIN czechia_payroll_industry_branch cpib 
 		ON cp.industry_branch_code = cpib.code 
